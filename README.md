@@ -1,4 +1,3 @@
-
 # Yago Passos 
 
 ## 📱 Social
@@ -6,12 +5,15 @@
     <a href="https://www.linkedin.com/in/yago-passos-1b677413a/"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
 
-<br>
 
 ## 📄 About Me
-    I'm a Frontend developer with bachelor's degree in Computer Science and passionate about technology and games.
-    I have knowledge of React, AngularJS, JavaScript, Typescript, Styled Components, Tailwind CSS, Chakra UI and for the backend NodeJs and SpringBoot.
-    I Also knows a bit about UX/UI experience, using Figma and Adobe XD to create some layouts that helps in devlopment.
+
+I'm a Frontend developer with bachelor's degree in Computer Science and passionate about technology and games.
+
+I have knowledge of React, AngularJS, JavaScript, Typescript, Styled Components, Tailwind CSS, Chakra UI and 
+    for the backend NodeJs and SpringBoot.
+
+I Also knows a bit about UX/UI experience, using Figma and Adobe XD to create some layouts that helps in devlopment.
 
 
 ## 💻 Skills
@@ -34,11 +36,11 @@
 
 <br>
 
-----------
+-----------
 
 <br>
 
-<div style= "display: flex;  justify-content: center" >
+<div style= "display: flex; flex-direction: row; justify-content: center; padding: 0 2rem; align-items: center;" >
 
 ![Yago's GitHub stats](https://github-readme-stats.vercel.app/api?username=YagoPassos&show_icons=true&theme=dracula)
 
